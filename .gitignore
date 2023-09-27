@@ -1,3 +1,5 @@
 .DS_Store
 *.log
 log/
+*.orig
+simple_*_*.html
