@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work. Updating for emergency f
 
 ## Introduction
 
-Add some introduction here
+Add some introduction here..
 
 ## Purpose
 
